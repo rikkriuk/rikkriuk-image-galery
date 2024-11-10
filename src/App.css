@@ -1,0 +1,7 @@
+.button-custom {
+  @apply bg-red-500 text-white font-semibold py-2 px-4 rounded-md transition duration-200 hover:bg-red-600;
+}
+
+.button-custom:active {
+  @apply scale-95;
+}

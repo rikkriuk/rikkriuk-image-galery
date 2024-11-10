@@ -1,7 +1,8 @@
 import React from "react";
+import Home from "./pages/Home";
 
 export default function App() {
   return (
-    <p className="text-blue-600">Hello World</p>
+    <Home />
   )
 }
